@@ -1,4 +1,4 @@
-package Entity;
+package com.workintech.s18d4.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
